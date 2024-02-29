@@ -86,9 +86,6 @@ div#footerNav a {
    font-size: 120%;
    color: #037dbe;
 }
-div#sideBarContainer a p {
-   font-weight: bold;
-}
 div#footerNav a:hover {
    color: #000;
 }
