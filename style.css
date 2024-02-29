@@ -54,7 +54,7 @@ aside a {
    padding: 2%;
    border-radius: 5px;
    width: 90%;
-   display: table
+   display: table;
 }
 .featuredImage {
    max-width: 100%;
